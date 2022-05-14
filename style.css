@@ -38,11 +38,18 @@ p {
 }
 
 .idiomas {
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   float: right;
   right: 0.2rem;
   font-size: 1rem;
+=======
+  float: right;
+  right: 0.2rem;
+  font-size: 1rem;
+  font-weight: 100;
+>>>>>>> a548cac1beb263e9c02255f1e06a5db5d4e271c9
 }
 
 .lang {
